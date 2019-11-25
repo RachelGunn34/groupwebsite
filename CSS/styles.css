@@ -12,19 +12,24 @@ background-color: #73c8d1;
 .customDiv1 {
   color: white;
   text-align: center;
-  border: 50px double #1a7883;
+  border: none;
   border-width: 20px;
+  font-family: lucida,cursive;
+  font-style: italic;
+  Font-weight: 500;
 background-color: #73c8d1;
 padding: 50px;
 margin: 20px 5px 20px 5px;
-font-size: 3em
+font-size: 4em
 }
 
 .customDiv2 {
   color: white;
 background-color: #73c8d1;
 padding: none;
-font-size: 2em;
+font-family: lucida,cursive;
+font-style: italic;
+Font-weight: 500;font-size: 2em;
 margin: 20px 5px 20px 5px;
 }
 
@@ -33,6 +38,9 @@ margin: 20px 5px 20px 5px;
   text-align: center;
 background-color: #73c8d1;
 padding: 30px;
+font-family: lucida,cursive;
+font-style: italic;
+Font-weight: 500;
 font-size: 1.5em;
 }
 
