@@ -106,7 +106,7 @@ img {
   filter: alpha(opacity=50);
 }
 
-div#general{
+div #general{
   display: block;
   flex-wrap: nowrap;
   align-self:center;
@@ -114,8 +114,8 @@ div#general{
   text-align:left;
   text-justify:inter-word;
   position:relative;
-  width:100px;
-  height:70px;
+  width:10px;
+  height:10px;
 }
 
 
