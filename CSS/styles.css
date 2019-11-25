@@ -10,17 +10,17 @@ background-color: #73c8d1;
 }
 
 .customDiv1 {
-  color: white;
+  color: black;
   text-align: center;
+  background-color: #73c8d1;
   border: none;
   border-width: 20px;
   font-family: lucida,cursive;
   font-style: italic;
   Font-weight: 500;
-background-color: #73c8d1;
-padding: 50px;
+padding: none;
 margin: 20px 5px 20px 5px;
-font-size: 4em
+font-size: 6em
 }
 
 .customDiv2 {
@@ -52,7 +52,7 @@ font-size: 1.5em;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .customDiv4 {
