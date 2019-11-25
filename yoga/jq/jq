@@ -1,0 +1,11 @@
+
+
+//making buttons clickable
+
+$(document).ready(function(){
+$("button").click(function) {
+  var text = $("#input").val();
+  $("#list").append('<li>' + Yoga + '</li>');
+  $("#list").append('<li>' + Meditation + '</li>');
+  ("#list").append('<li>' + Links + '</li>');
+})
